@@ -20,3 +20,12 @@ sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt .
 curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install heroku
+
+
+
+*************************
+
+Deploying Angular App on Heroku
+https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
+
+
